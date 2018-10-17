@@ -33,14 +33,14 @@ spec:
         - name: GITLAB_ROOT_PASSWORD
           value: root
         - name: GITLAB_ROOT_EMAIL
-          value: root@example.com
+          value: huangyunqing@icarbonx.com
 
         - name: GITLAB_HOST
-          value: git.example.com
+          value: gitlab.icarbonx.com
         - name: GITLAB_PORT
           value: "80"
         - name: GITLAB_SSH_HOST
-          value: "ssh-git.example.com"
+          value: "ssh-git.icarbonx.com"
         - name: GITLAB_SSH_PORT
           value: "1022"
 
